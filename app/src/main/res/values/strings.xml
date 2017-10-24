@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySqLite</string>
+    <string name="name">Nombre</string>
+    <string name="id">Id</string>
+    <string name="apellido">Apellido</string>
+    <string name="telefono">Telefono</string>
+</resources>
